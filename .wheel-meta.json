@@ -1,0 +1,16 @@
+{
+  "wheel_id": 56,
+  "slug": "tscb-nl-102",
+  "project": "small-business-seo-brisbane",
+  "parent_t1_ref": "tscb-nl-001",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "small business seo brisbane",
+  "intended_url": "https://small-business-seo-brisbane.surge.sh/",
+  "links": [
+    {
+      "target_url": "https://local-seo-services-brisbane.vercel.app/",
+      "anchor": "local seo services brisbane",
+      "rel": "follow"
+    }
+  ]
+}
